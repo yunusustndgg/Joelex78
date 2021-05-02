@@ -1,4 +1,4 @@
-- 👋 Selam, ben @Joelex78
+- 👋 Selam, ben Yunus Emre
 - 👀 Youtube'da insanlara yardımcı olmak amacıyla videolar paylaşıyorum.
 - 🌱 Şuan Etik Hackerlık, web tasarımı, programlama ile ilgili şeyler öğreniyorum. Öğrendikçe de bilgilerimi paylaşmaya gayret ediyorum.
 - 📫 Bana bu linkteki (https://www.youtube.com/channel/UCI1dA_puohLknm-Nn-BFhFw) youtube kanalına yorum yazarak ulaşabilirsiniz.
